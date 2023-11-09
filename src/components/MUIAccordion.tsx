@@ -6,7 +6,7 @@ import {
   AccordionDetails,
   Typography,
 } from "@mui/material";
-import ExpandMoreIcon from "@mui/icons-material/ExpandMore";
+import ExpandMoreIcon from "@mui/icons-material/ExpandMoreOutlined";
 import { useState } from "react";
 
 export const MUIAccordion = () => {
